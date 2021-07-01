@@ -1,0 +1,12 @@
+{
+  "name": "tcp.sockets",
+  "version": "1.0.0",
+  "description": "TCP Sockets practise applications",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Akash Kakkar",
+  "license": "MIT"
+}
